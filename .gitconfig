@@ -1,0 +1,4 @@
+[user]
+	email = paigetech@gmail.com
+[core]
+	excludesfile = /Users/feather/.gitingnore_global
