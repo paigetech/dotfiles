@@ -1,1 +1,35 @@
-/Users/feather/maximum-awesome/vimrc.bundles
+" Plugins here are part of the CORE Paige Vim
+" Please create ~/.vimrc.bundles.local and add any extra bundles you want there
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'altercation/vim-colors-solarized'
+Plugin 'christoomey/vim-tmux-navigator'
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'scrooloose/nerdtree'
+Plugin 'rking/ag.vim'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'tpope/vim-commentary'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-ragtag'
+Plugin 'tpope/vim-fugitive'
+Plugin 'vim-scripts/Align'
+Plugin 'vim-scripts/greplace.vim'
+Plugin 'vim-scripts/matchit.zip'
+Plugin 'shime/vim-livedown'
+Plugin 'wakatime/vim-wakatime'
+Plugin 'iamcco/markdown-preview.vim'
+
+"javascript
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
+Plugin 'w0rp/ale'
+Plugin 'skywind3000/asyncrun.vim'
+Plugin 'tpope/vim-jdaddy'
+
+"rails
+Plugin 'tpope/vim-rails'
+Plugin 'vim-ruby/vim-ruby'
+Plugin 'tpope/vim-endwise'
+Plugin 'tpope/vim-cucumber'
+Plugin 'tpope/vim-rake'
+Plugin 'kchmck/vim-coffee-script'
+
